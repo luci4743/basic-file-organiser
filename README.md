@@ -17,7 +17,8 @@ After running the program, the following structure is created:
 
 ├── Unorganised_Files/
 │   └── (your files here)
-│
+
+
 ├── Organised_Files/
 │   ├── Audio/
 │   ├── Executable/
@@ -29,21 +30,21 @@ After running the program, the following structure is created:
 
 
 Supported File Types
-Category	Extensions
-Text:	txt, doc, docx, odt, html, xml, json, csv
-Images:	png, jpg, jpeg, gif, heic, tiff
-Video:	mp4, mov, wmv, avi, mkv
-Audio:	mp3, wav, flac, aac, ogg, m4a
-PDFs:	pdf
-Executable:	exe, bat
+Category	Extensions  
+Text:	txt, doc, docx, odt, html, xml, json, csv  
+Images:	png, jpg, jpeg, gif, heic, tiff   
+Video:	mp4, mov, wmv, avi, mkv     
+Audio:	mp3, wav, flac, aac, ogg, m4a   
+PDFs:	pdf  
+Executable:	exe, bat  
 Other	All unsupported files
 
 
 How to Run
-Clone the repository:
-git clone https://github.com/your-username/file-organizer.git
-cd file-organizer
-Run the script:
+Clone the repository:  
+git clone https://github.com/your-username/file-organizer.git  
+cd file-organizer  
+Run the script:  
 python your_script_name.py
 
 
